@@ -1,0 +1,87 @@
+.tituloh1{
+  font-size: 36px;
+  font-family: 'Kaushan Script', cursive;
+  color: white;
+  letter-spacing: 2px;
+  margin-top: 0px;
+  padding-top:20px;
+  padding-left: 34px;
+}
+
+.tituloh2{
+  color: white;
+  padding-left: 34px;
+  padding-bottom: 13px;
+}
+
+.referencia{
+  font-style: italic;
+}
+
+.center_text{
+  text-align: center;
+}
+.paragrafo_lateral{
+  padding-left: 34px;
+}
+
+.destacado{
+  background-color: #C4CAF3;
+}
+
+.destacado p{
+  color: #004A79;
+}
+
+h2{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+
+h3{
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+body{
+  margin: 0px;
+}
+
+img#unicorn1{
+  float: left;
+  width: 310px;
+  margin-right: 13px;
+}
+
+p{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+#cabecalho{
+  background-color: #6175f0;
+}
+
+#hoje{
+  float: right;
+  width: 405px;
+  background-color: #F8CEF7;
+  border: 1px solid #FF56FB;
+  margin-right: 25px;
+  text-align: center;
+  box-sizing: border-box;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+#imagem{
+  width: 112px;
+  height: 112px;
+
+}
+
+#musica{
+  padding-left: 12px;
+}
